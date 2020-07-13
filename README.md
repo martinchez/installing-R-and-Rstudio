@@ -1,18 +1,5 @@
 # installing R and Rstudio
 
----
-title: "Chart Stack"
-output: flexdashboard::flex_dashboard
----
-    
-### Chart 1
-    
 ```{r}
-
-```
-    
-### Chart 2
-
-```{r}
-
+This article gives you as a begginner a step by step chronological way to install  R and R studio
 ```
