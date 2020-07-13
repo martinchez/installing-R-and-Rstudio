@@ -1,0 +1,121 @@
+---
+Title: "installing and seting up R"
+Author: "Martin chege"
+Date: "7/13/2020"
+Output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is article will take you through  installing R and Rstudio together with  the basic packages that will be required to keep you going with your projects use this link to get more info<http://.rstudio.com>.
+
+
+
+```{r }
+
+```
+
+
+
+
+##<u>installing R</u>
+
+
+
+
+## Step1 Downloading the r setup
+
+Download link <https://ww.r-project.org>
+
+```{r }
+# to download the r setup follow the link provided in the above link to download the latest r
+
+#click the download CRAN button
+```
+
+## Step 2 Choose the mirror you would want to download
+```{r}
+#selecting the mirror
+
+```
+
+
+## Step 3 Further based on operating system that you use select the lelevat link
+```{r}
+# sectionof the correct operating system that you are using
+```
+
+## step 4 Select <b>R from first time</b>
+```{r}
+#clicking on the r link
+```
+
+## Step 5 Download and run the executable file
+```{r}
+#download the windows version  if using windows
+#then click the .exe that was downloaded to install it in the default library
+```
+
+
+
+
+## <u>Installing R Studio</u>
+
+
+
+
+
+```{r}
+#lets now install the main GUI that we are going to be using as out text editor
+```
+
+## Step 1 Donwload Rstudio From 
+DOWNLOAD LINK<https://www.rstudio.com/products/rstudio/download/>
+```{r}
+#use the link above
+```
+
+## Step 2 Based on OS choose the relevant executable installer and download it
+```{r}
+#choode the .exe for windows
+```
+
+## Step 3 Run the downloaded installer and start installing it in the default location
+``.exe ``
+
+```{R}
+#run the .exe so that you install rstudio
+```
+
+
+
+
+## <u>Packages Installation </u>
+
+
+## Step 1 click inside the console 
+general case ``install.packages("pakagename")``
+eg ``install.packages("raster")``
+
+```{r}
+#type inside the console uncomenting install.packages
+
+
+#install.packages("pakagename")
+#eg
+
+#install.packages("raster")
+
+#then hit enter anw wait for it to download
+```
+
+
+
+
+
+
+
